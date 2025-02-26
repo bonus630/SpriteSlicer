@@ -15,6 +15,10 @@ You can install this package using Unity Package Manager (UPM):
 - Customizable size, offset, and quantity  
 - Integrated with Unity's Sprite Editor  
 
+## 🎬 Demo
+
+[![Assista ao vídeo](https://img.youtube.com/vi/8nYwny8StAo/maxresdefault.jpg)](https://www.youtube.com/watch?v=8nYwny8StAo)
+
 ## 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
 
